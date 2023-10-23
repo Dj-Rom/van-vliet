@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8546e78.css",
-    "main.js": "/static/js/main.76060663.js",
-    "static/js/787.2b9684b3.chunk.js": "/static/js/787.2b9684b3.chunk.js",
-    "index.html": "/index.html",
-    "main.e8546e78.css.map": "/static/css/main.e8546e78.css.map",
-    "main.76060663.js.map": "/static/js/main.76060663.js.map",
-    "787.2b9684b3.chunk.js.map": "/static/js/787.2b9684b3.chunk.js.map"
+    "main.css": "/van-vliet/static/css/main.e8546e78.css",
+    "main.js": "/van-vliet/static/js/main.d73f1dab.js",
+    "static/js/787.4f0af625.chunk.js": "/van-vliet/static/js/787.4f0af625.chunk.js",
+    "index.html": "/van-vliet/index.html",
+    "main.e8546e78.css.map": "/van-vliet/static/css/main.e8546e78.css.map",
+    "main.d73f1dab.js.map": "/van-vliet/static/js/main.d73f1dab.js.map",
+    "787.4f0af625.chunk.js.map": "/van-vliet/static/js/787.4f0af625.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8546e78.css",
-    "static/js/main.76060663.js"
+    "static/js/main.d73f1dab.js"
   ]
 }
