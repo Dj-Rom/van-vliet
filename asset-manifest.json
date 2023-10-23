@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/van-vliet/static/css/main.64fa52eb.css",
-    "main.js": "/van-vliet/static/js/main.46aa002c.js",
+    "main.css": "/van-vliet/static/css/main.83a8cbc2.css",
+    "main.js": "/van-vliet/static/js/main.1e05a596.js",
     "static/js/787.4f0af625.chunk.js": "/van-vliet/static/js/787.4f0af625.chunk.js",
     "static/media/europe-map.avif": "/van-vliet/static/media/europe-map.a077d3efffc01192df4a.avif",
     "index.html": "/van-vliet/index.html",
-    "main.64fa52eb.css.map": "/van-vliet/static/css/main.64fa52eb.css.map",
-    "main.46aa002c.js.map": "/van-vliet/static/js/main.46aa002c.js.map",
+    "main.83a8cbc2.css.map": "/van-vliet/static/css/main.83a8cbc2.css.map",
+    "main.1e05a596.js.map": "/van-vliet/static/js/main.1e05a596.js.map",
     "787.4f0af625.chunk.js.map": "/van-vliet/static/js/787.4f0af625.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.64fa52eb.css",
-    "static/js/main.46aa002c.js"
+    "static/css/main.83a8cbc2.css",
+    "static/js/main.1e05a596.js"
   ]
 }
