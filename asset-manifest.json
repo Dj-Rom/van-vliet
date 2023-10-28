@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/van-vliet/static/css/main.125d7135.css",
-    "main.js": "/van-vliet/static/js/main.884ee741.js",
-    "static/js/787.4f0af625.chunk.js": "/van-vliet/static/js/787.4f0af625.chunk.js",
+    "main.css": "/van-vliet/static/css/main.9c329721.css",
+    "main.js": "/van-vliet/static/js/main.dca0791c.js",
+    "static/js/787.6a54156c.chunk.js": "/van-vliet/static/js/787.6a54156c.chunk.js",
     "static/media/Roboto-Regular.ttf": "/van-vliet/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/europe-map.avif": "/van-vliet/static/media/europe-map.a077d3efffc01192df4a.avif",
     "index.html": "/van-vliet/index.html",
-    "main.125d7135.css.map": "/van-vliet/static/css/main.125d7135.css.map",
-    "main.884ee741.js.map": "/van-vliet/static/js/main.884ee741.js.map",
-    "787.4f0af625.chunk.js.map": "/van-vliet/static/js/787.4f0af625.chunk.js.map"
+    "main.9c329721.css.map": "/van-vliet/static/css/main.9c329721.css.map",
+    "main.dca0791c.js.map": "/van-vliet/static/js/main.dca0791c.js.map",
+    "787.6a54156c.chunk.js.map": "/van-vliet/static/js/787.6a54156c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.125d7135.css",
-    "static/js/main.884ee741.js"
+    "static/css/main.9c329721.css",
+    "static/js/main.dca0791c.js"
   ]
 }
