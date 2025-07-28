@@ -6,22 +6,29 @@
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <meta name="theme-color" content="#000000"/>
   <meta name="description" content="Web site created using create-react-app"/>
-  <link rel="apple-touch-icon" href="/van-vliet/logo192.pn"/>
+  <link rel="apple-touch-icon" href="/van-vliet/logo192.png"/>
   <link rel="manifest" href="/van-vliet/manifest.json"/>
   <title>DriversFlovers</title>
 
   <script>
-    let password = prompt("Write password:");
-    while (password !== "12345") {
+    let password = "";
+    const correctPassword = "12345";
+
+    while (password !== correctPassword) {
       password = prompt("Write password:");
-      if(password == "12345")return;
-      document.write("<h1 style='text-align:center; margin-top:20%'>Password incorrect!!</h1>");
-      throw new Error("Wrong password — stopping page load.");
-      
+      if (password === null) {
+        document.documentElement.innerHTML = `
+          <head><title>Access Denied</title></head>
+          <body>
+            <h1 style="text-align:center; margin-top:20%; color:red;">Access cancelled.</h1>
+          </body>
+        `;
+        throw new Error("Access cancelled by user.");
+      }
     }
   </script>
 
-  <!-- only load styles and scripts *after* password is correct -->
+  <!-- Load resources only after correct password -->
   <link href="/van-vliet/static/css/main.362830a7.css" rel="stylesheet">
   <script defer src="/van-vliet/static/js/main.dca0791c.js"></script>
 </head>
