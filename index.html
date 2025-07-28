@@ -11,8 +11,9 @@
   <title>DriversFlovers</title>
 
   <script>
-    const password = prompt("Write password:");
+    let password = prompt("Write password:");
     if (password !== "12345") {
+      password = prompt("Write password:");
       document.write("<h1 style='text-align:center; margin-top:20%'>Password incorrect!!</h1>");
       throw new Error("Wrong password — stopping page load.");
     }
